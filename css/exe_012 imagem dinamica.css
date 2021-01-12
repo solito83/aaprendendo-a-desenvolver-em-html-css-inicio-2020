@@ -4,5 +4,5 @@ body {background-color: aquamarine;}
 body p {color: blue; }
 body 
 {
-    width: 900px; margin-left: 180px; margin-right: 250px;
+    width: auto; margin-left: 200px; margin-right: 300px;
 }
